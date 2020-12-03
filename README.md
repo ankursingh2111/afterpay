@@ -16,4 +16,4 @@ To run the test
 `yarn test`
 
 To run the program
-`node -r esm index.js 1500, data.csv`
+`node -r esm index.js 1500 data.csv`
